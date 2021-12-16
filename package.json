@@ -1,0 +1,23 @@
+{
+  "name": "programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jheinem1/programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jheinem1/programming/issues"
+  },
+  "homepage": "https://github.com/jheinem1/programming#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.73.0"
+  }
+}

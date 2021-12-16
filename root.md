@@ -2,19 +2,8 @@
 id: xZFWhm9RcW9U0FRAKe3za
 title: Root
 desc: ''
-updated: 1639681318988
+updated: 1639693499675
 created: 1639681318988
 ---
-# Welcome to Dendron
-
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
-
-## Lookup
-
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+# Programming
+This is a Dendron vault dedicated to a bunch of notes for programming languages (notably Luau as it has a lot of undefined behavior).
